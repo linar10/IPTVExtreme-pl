@@ -264,7 +264,7 @@
     <string name="series_no_seasons_found">Nie znaleziono sezonów!</string>
     <string name="serie_seasons_found">Dostępne Sezony</string>
     <string name="serie_info_item">Informacje o Serii</string>
-    <string name="quick_menu_goto_label">Przejź Do</string>
+    <string name="quick_menu_goto_label">Przejdź Do</string>
     <string name="quick_menu_epg_label">EPG</string>
     <string name="pref_delete_application_files_title">Usuń Pliki</string>
     <string name="pref_delete_application_files_summary">Wyczyść wszystkie pliki aplikacji, aby zwolnić pamięć, z wyjątkiem bazy danych, ustawień i ważnych plików. NIE utracisz swoich danych</string>
