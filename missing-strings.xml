@@ -24,9 +24,9 @@
     <string name="mode_grid_text">KRATKA</string>
     <string name="mode_tile_text">PŁYTKA</string>
     <string name="mode_poster_text">PLAKAT</string>
-    <string name="default_language_text">Domyślne Urządzenie</string>
+    <string name="default_language_text">Domyślny Urządzenia</string>
     <string name="loading_mode_default_text">Domyślny</string>
-    <string name="loading_mode_light_text">Podstawowy</string>
+    <string name="loading_mode_light_text">Light</string>
     <string name="update_info_playlist_button_text">Aktualizuj Info</string>
     <string name="update_info_playlist_started_text">Rozpoczęła się aktualizacja informacji o liście odtwarzania</string>
     <string name="update_info_playlist_completed_text">Aktualizacja informacji o liście odtwarzania zakończona</string>
@@ -80,7 +80,7 @@
     <string name="empty_replay_server_msg">Brak dostępnych powtórek dla tego serwera</string>
     <string name="current_alias_text">Aktualnie : %1$s</string>
     <string name="playlist_download_error_local_loaded">Zostanie użyta ostatnia kopia lokalna</string>
-    <string name="casting_category">Casting</string>
+    <string name="casting_category">Występują</string>
     <string name="casting_mode_title">Tryb Chromecast</string>
     <string name="casting_mode_summary">Wybierz typ integracji do użycia, Standard lub Alternatywny (Beta). Wymaga ponownego uruchomienia</string>
     <string name="casting_passthrough_title">Przekazywanie Dźwięku </string>
@@ -385,8 +385,8 @@
     <string name="dns_service_stopped_message">Usługa DNS Zatrzymana!</string>
     <string name="dns_service_creashed_message">Błąd Usługi DNS: %1$s</string>
     <string name="dns_vpn_title">Informacja</string>
-    <string name="dns_vpn_message">To use this function without root access all traffic is redirected using a VPN. This VPN redirects your traffic only locally, the data never leaves your phone using this VPN connection.\n\nYou\'ll be asked to allow the VPN connection, without permission from you the Change DNS servers won\'t work.\n\n.</string>
-    <string name="dns_vpn_title_on_start">DNS Changer is Active</string>
+    <string name="dns_vpn_message">Aby korzystać z tej funkcji bez dostępu do konta root, cały ruch jest przekierowywany za pomocą sieci VPN. Ta sieć VPN przekierowuje ruch tylko lokalnie, dane nigdy nie opuszczają telefonu za pomocą tego połączenia VPN. \n\n Zostaniesz poproszony o zezwolenie na połączenie VPN, bez Twojej zgody Zmiana serwerów DNS nie będzie działać..\n\n.</string>
+    <string name="dns_vpn_title_on_start">Zmieniacz DNS jest Aktywny</string>
     <string name="dns_vpn_message_on_start">The DNS Changer is active but the permission is not granted!\nTo use this function without root access all traffic is redirected using a VPN. This VPN redirects your traffic only locally, the data never leaves your phone using this VPN connection.\n\nYou\'ll be asked to allow the VPN connection, without permission from you the Change DNS servers won\'t work.\n\n.</string>
     <string name="playlist_download_error_xtream_general">The Xtream Codes server is not reachable!</string>
     <string name="playlist_download_error_account_status">The Xtream-Codes server returned account status %1$s</string>
